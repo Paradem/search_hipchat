@@ -7,6 +7,8 @@
 # Ignore bundler config.
 /.bundle
 
+*.csv
+
 .DS_Store?
 *.DS_Store*
 Thumbs.db
